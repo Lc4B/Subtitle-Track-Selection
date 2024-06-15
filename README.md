@@ -14,4 +14,4 @@ If there are only subtitles without flags, not only will they not be set, but th
 There is the possibility to enable or disable external subtitle control via `script-message` to the `toggleExternal` function (for manual use via console or to bind it to a key).
 
 ## Installation
-Place the [`Subtitle Track Selection.lua`](https://github.com/Lc4B/Subtitle-Track-Selection/blob/main/Subtitle_Track_Selection.lua) file into mpv `scripts` folder.
+Place the [`Subtitle_Track_Selection.lua`](https://github.com/Lc4B/Subtitle-Track-Selection/blob/main/Subtitle_Track_Selection.lua) file into mpv `scripts` folder.
