@@ -1,5 +1,5 @@
 # Subtitle Track Selection
-Small script that sets the correct subtitle via flags.
+Small script that automatically sets the correct subtitle via flags.
 
 ## How it works
 Subtitle Track Selection analyzes whether there are subtitles for the file (internal or external) and sets the most correct one via flag priority:
